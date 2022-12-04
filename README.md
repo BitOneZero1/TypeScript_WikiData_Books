@@ -16,6 +16,8 @@ Reddit social media discussion of this topic/repository: https://www.reddit.com/
 
 You can likely use other Node package installers/managers. I only tested this app with pnpm on Linux operating system.
 
+```
 pnpm install
 pnpm run bundlework
 ./WikiData_Books_cli.cjs --help
+```
