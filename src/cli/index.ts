@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // bundle this
-// pnpm esbuild src/cli/index.ts --bundle --minify --platform=node --target=node18 --outfile=plotdiffwork
+// pnpm esbuild src/cli/index.ts --bundle --minify --platform=node --target=node18 --outfile=WikiData_Books_cli.cjs
 
 import { logger } from '../lib/system/logger';
 import sade from 'sade';
